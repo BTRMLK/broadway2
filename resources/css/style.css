@@ -34,13 +34,9 @@ footer {
   text-align: left;
   background-color: dimgray;
   display: block;
-
+  color: white;
+}
 
 .copyright {
   font-size: 11px;
 }
-
-}
- .copyright{
-
- }
