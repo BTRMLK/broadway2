@@ -11,7 +11,7 @@ nav, .design {
   font-size: 70px;
   font-weight: bold;
   color: white;
-  }
+}
 
 h2 {
   font-size: 32px;
@@ -27,6 +27,10 @@ h2 {
 
 li {
   font-size: 18px;
+  color: white;
+}
+
+a {
   color: white;
 }
 
